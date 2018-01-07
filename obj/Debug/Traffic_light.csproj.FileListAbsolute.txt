@@ -1,0 +1,7 @@
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\Traffic_light.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.pdb
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\Traffic_light.csprojResolveAssemblyReference.cache

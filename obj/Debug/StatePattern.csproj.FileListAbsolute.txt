@@ -1,0 +1,13 @@
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\bin\Debug\StatePattern.exe.config
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\bin\Debug\StatePattern.exe
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\bin\Debug\StatePattern.pdb
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\obj\Debug\StatePattern.exe
+E:\Study Library\Application Design\Design Patterns\DesignPatternCodes\State_Design_Pattern\StatePattern\obj\Debug\StatePattern.pdb
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\Евгений\Desktop\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\Евгений\Desktop\StatePattern\obj\Debug\StatePattern.pdb
